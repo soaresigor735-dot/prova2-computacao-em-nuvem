@@ -1,0 +1,10 @@
+Questão 1
+Respostas: O IaaS fornece recursos fundamentais de computação virtualizados, como servidores, redes e armazenamento, permitindo que o usuário controle o sistema operacional e os aplicativos instalados.
+Já o SaaS entrega aplicativos prontos para uso pela internet, gerenciados inteiramente pelo provedor, onde o usuario final apenas consome aplicação.
+
+Questão 2 
+Resposta: Nuvem Hibrida. Este modelo combina e conecta a infraestrutura local  com a nuvem pública, permitindo que os dados e aplicativos sejam compartilhados entre elas.
+
+Questão 3
+Resposta: A principal diferença está no nivel de virtualização. Uma maquina virtual virtualiza um hardware inteiro. incluindo seu próprio sistema operacional convidado, o que a torna mais pesada e de inicialização mais lenta.
+Um container virtualiza apenas a camada de sistema operacional, compartilhando o kernel do host, o que torna extremamente leve, rápido de iniciar e altamente isolado.
