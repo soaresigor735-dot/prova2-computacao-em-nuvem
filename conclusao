@@ -1,0 +1,4 @@
+Conclusão: Durante esta atividade prática, foi possível compreender e aplicar conceitos fundamentais de orquestração e conteinerização. 
+A utilização do Docker permitiu empacotar e executar aplicações de forma isolada e portátil, enquanto o Kubernetes demonstrou seu poder 
+na gestão automatizada de infraestrutura em larga escala, destacando recursos essenciais como escalabilidade, balanceamento de carga e 
+autorrecuperação de falhas em ambientes distribuídos.
