@@ -1,0 +1,12 @@
+Questão 1
+Resposta: Imagem Docker: é um pacote estatico, imutavel e somente leitura que contém o código, as bibliotecas e as dependencias necessarias para rodar a aplicação. 
+          Container em execução: é a instancia instanciada e ativa dessa imagem, rodando de forma isolana no ambiente com seu próprio ciclo de vida.
+
+Questão 2
+Resposta: o Deployment é um objeto do Kubernetes que gerencia de forma declarativa a criação e atualização de Pods e ReplicaSets. Ele garante que o número desejado de instacias de aplicação esteja rodando perfeitamente e gerencia atualizações controladas.
+
+Questão 3
+Resposta: O Pod original foi terminado, mas o Kubernetes (através do gerenciamento do Deployment) recriou automaticamente um novo Pod com um identificador diferente. Isso aconteceu devido aos mecanismos de autorrecuperação do Kubernetes, que monitoram constantemente o estado do cluster para garantir que ele corresponda ao estado desejado especificado no Deployment.
+
+Questão 4
+Resposta: O Service tem como finalidade fornecer um ponto de acesso estável (um endereço IP e uma porta fixos) para um conjunto de Pods, permitindo o balanceamento de carga e a comunicação confiável entre diferentes partes da aplicação ou com o mundo externo, mesmo que os Pods mudem de IP frequentemente.
