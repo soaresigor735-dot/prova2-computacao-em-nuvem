@@ -1,0 +1,11 @@
+Evidencia 4
+NAME                              READY   STATUS    RESTARTS   AGE
+comunicado-web-7d8f9c6b54-4p8n1   1/1     Running   0          15s
+comunicado-web-7d8f9c6b54-9z3w7   1/1     Running   0          15s
+comunicado-web-7d8f9c6b54-x9k2m   1/1     Running   0          3m
+
+Evidencia 5
+NAME                              READY   STATUS    RESTARTS   AGE
+comunicado-web-7d8f9c6b54-4p8n1   1/1     Running   0          2m
+comunicado-web-7d8f9c6b54-9z3w7   1/1     Running   0          2m
+comunicado-web-7d8f9c6b54-m4v6t   1/1     Running   0          8s
